@@ -6,7 +6,7 @@
 /// para Pdf en general ///
 
 • Estilo: Normal
-  · Fuente: Carlito
+  · Fuente: Timer New Roman
   · Tamaño: 16
   · Primera linea: 0,5cm
   · Interlineado: Multiple 1,2 lin.
@@ -28,7 +28,7 @@
 /// para Celulares o Ebooks en general ///
 
 • Estilo: Normal
-  · Fuente: Carlito
+  · Fuente: Times New Roman
   · Tamaño: 22
   · Primera linea: 0,5cm
   · Interlineado: Multiple 1,2 lin.
