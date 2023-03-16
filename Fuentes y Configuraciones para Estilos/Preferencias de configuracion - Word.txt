@@ -24,6 +24,17 @@
   · Fuente: Trajan Pro
   · Tamaño: 18
 
+• Encabezados:
+  · desde arriba: 1,3cm
+  · desde abajo: 1,3cm
+  · tamaño fuente: 11
+  · un parrafo normal de vacio
+  · texto centrado
+
+• Margenes: Moderada
+  · Izquierda y Derecha:1,91cm
+  · Arriba y abajo: 2,54cm
+
 
 /// para Celulares o Ebooks en general ///
 
