@@ -11,6 +11,7 @@
   · Primera linea: 0,5cm
   · Interlineado: Multiple 1,2 lin.
   · Alineación de texto: Justificado
+  · Espaciado entre caracteres: 0,5 pts.
 
 • Titulo 1
   · Fuente: Trajan Pro
