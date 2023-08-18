@@ -57,3 +57,7 @@
 • Titulo 3
   · Fuente: Trajan Pro
   · Tamaño: 24
+
+• Margenes: Estrecha
+  · Izquierda y Derecha:1,27cm
+  · Arriba y abajo: 1,27cm
