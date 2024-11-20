@@ -32,9 +32,9 @@
   · un parrafo normal de vacio
   · texto centrado
 
-• Margenes: Moderada
-  · Izquierda y Derecha:1,91cm
-  · Arriba y abajo: 2,54cm
+• Margenes: Personalizado
+  · Izquierda y Derecha:2cm
+  · Arriba y abajo: 1,5cm
 
 
 /// para Celulares o Ebooks en general ///
