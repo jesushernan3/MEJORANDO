@@ -25,6 +25,18 @@
   · Fuente: Trajan Pro
   · Tamaño: 18
 
+• Titulo 4
+  · Fuente: Trajan Pro
+  · Tamaño: 16
+
+• Titulo 5
+  · Fuente: Trajan Pro
+  · Tamaño: 14
+
+• Titulo 6
+  · Fuente: Trajan Pro
+  · Tamaño: 12
+
 • Encabezados:
   · desde arriba: 1,3cm
   · desde abajo: 1,3cm
@@ -35,6 +47,26 @@
 • Margenes: Personalizado
   · Izquierda y Derecha:2cm
   · Arriba y abajo: 1,5cm
+
+• Título Índice centrado
+  · Fuente: Cambria
+  · Tamaño: 26
+  · Sangría: 0
+  · Primera línea: ninguna
+
+• Tabulado
+  · Tamaño fuente: 14
+  · Sangría: 0
+  · Primera línea: ninguna
+  · Posición: 15 cm
+  · Alineación: derecha
+  · Relleno: 2 (......)
+
+• Subtitulo
+  · Fuente: Times New Roman
+  · Tamaño: 18
+  · Color: Negro, claro 35%
+
 
 
 /// para Celulares o Ebooks en general ///
@@ -59,5 +91,5 @@
   · Tamaño: 24
 
 • Margenes: Estrecha
-  · Izquierda y Derecha:1,27cm
-  · Arriba y abajo: 1,27cm
+  · Izquierda y Derecha:1,3cm
+  · Arriba y abajo: 1,3cm
